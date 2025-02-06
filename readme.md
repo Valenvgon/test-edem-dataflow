@@ -1,1 +1,1 @@
-angel anda por la pradera
+angel ya no por la pradera

@@ -38,6 +38,6 @@ substitutions:
   _DRIVING_PUBSUB_SUBSCRIPTION_NAME: 'projects/edem-2425/subscriptions/driving-telemetry-subscription'
   _ENVIRONMENT_PUBSUB_SUBSCRIPTION_NAME: 'projects/edem-2425/subscriptions/environment-telemetry-subscription'
   _FIRESTORE_COLLECTION_NAME_: 'vehicle_telemetry_data'
-  _OUTPUT_PUBSUB_TOPIC_NAME: 'edem-data'
+  _OUTPUT_PUBSUB_TOPIC_NAME: 'projects/edem-2425/topics/edem-data'
   _IMAGE_API_URL: 'https://europe-southwest1-serverless-edem.cloudfunctions.net/getTrafficImages'
   _SYSTEM_ID: 'valenvvercher'
